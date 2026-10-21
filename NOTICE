@@ -1,0 +1,19 @@
+ukeystore
+
+Original additions are licensed under MIT; see LICENSE.
+The AOSP-derived portions retain Apache-2.0; see LICENSES/Apache-2.0.txt.
+
+Portions derived from Android Open Source Project code:
+Copyright 2020 The Android Open Source Project
+Licensed under the Apache License, Version 2.0.
+
+The ASN.1 declarations follow KeyMint support/attestation_record.cpp.
+The optional PBKDF2 adapter follows keystore2/src/crypto/crypto.cpp.
+The integration patch modifies AOSP system/security sources, whose original
+copyright and license notices remain in the upstream files.
+
+Modifications in this distribution include native attestation-chain handling,
+configuration, optional ABI adapters and build integration.
+
+Android and TrickyStore names identify external platforms and related work.
+They do not imply affiliation or endorsement.

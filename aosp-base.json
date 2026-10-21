@@ -1,0 +1,26 @@
+{
+  "repository": "https://android.googlesource.com/platform/system/security",
+  "commit": "7ce55003d922a8a2ddc80c1781b1e6fb3c09c9ef",
+  "preimages": [
+    {
+      "path": "keystore2/src/security_level.rs",
+      "sha256": "b04d7f41738c0f010b911b3b2f1ce225e2cbe3a2ed67d131fa477c8612f95046"
+    },
+    {
+      "path": "keystore2/src/service.rs",
+      "sha256": "33b80e1b639be18fcedc484c80dd8cf9d7e04ac8e80160e65244a10c1f58f104"
+    },
+    {
+      "path": "keystore2/src/lib.rs",
+      "sha256": "c1346717a7f12a73c98d2575c33164d250b83e1945a04ac44e146755f49c70b3"
+    },
+    {
+      "path": "keystore2/src/remote_provisioning.rs",
+      "sha256": "bf89dc01ff1892ba5919ac599bbfda6d7703678bb4783033849689cf7a89dd2a"
+    },
+    {
+      "path": "keystore2/Android.bp",
+      "sha256": "f464fb51e41edf6e3c2c1846e9b2289ee9e124dba129f2ce452b75294e4ee7ef"
+    }
+  ]
+}
