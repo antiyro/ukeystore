@@ -22,4 +22,6 @@ No keys, certificates or device profiles are supplied. The example is inactive a
 
 Host tests: `tests/run.sh` — requires Python 3, a C++17 compiler, OpenSSL development headers and `pkg-config`.
 
+**Disclaimer:** Use at your own risk. You are responsible for your use of this software. The authors are not liable for misuse, damage or losses, to the extent permitted by law.
+
 MIT for original additions. AOSP-derived portions retain Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
